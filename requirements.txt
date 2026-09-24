@@ -1,0 +1,6 @@
+streamlit>=1.32
+requests>=2.31
+python-dotenv>=1.0
+Pillow>=10.0
+cloudinary>=1.40
+tzdata>=2024.1
